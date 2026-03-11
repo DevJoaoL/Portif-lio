@@ -255,6 +255,7 @@ body {
     text-align: justify;
     width: 60vw;
     margin-left: 18vw;
+    line-height: 1.6;
 }
 
 .projetos {
@@ -768,4 +769,5 @@ main {
         grid-template-columns: repeat(1, 1fr);
         padding: 3rem 2rem;
     }
+
 }
